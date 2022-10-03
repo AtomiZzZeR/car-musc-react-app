@@ -1,12 +1,23 @@
 {
   "files": {
     "main.css": "/car-musc-react-app/static/css/main.27a480ff.css",
-    "main.js": "/car-musc-react-app/static/js/main.8c8e1f9b.js",
+    "main.js": "/car-musc-react-app/static/js/main.258153fb.js",
     "static/js/787.a4b99d08.chunk.js": "/car-musc-react-app/static/js/787.a4b99d08.chunk.js",
     "static/media/bg-home.jpg": "/car-musc-react-app/static/media/bg-home.c09626624b7d06dde344.jpg",
+    "static/media/imgMachine2.jpg": "/car-musc-react-app/static/media/imgMachine2.f834b6062973f8dea761.jpg",
+    "static/media/imgMachine1.jpg": "/car-musc-react-app/static/media/imgMachine1.685f76fbfc61b5f55feb.jpg",
+    "static/media/img3-slider.jpg": "/car-musc-react-app/static/media/img3-slider.9104b249d3812beb4510.jpg",
+    "static/media/img2-slider.jpg": "/car-musc-react-app/static/media/img2-slider.74a152d7d5940d97bdaf.jpg",
+    "static/media/img1-slider.jpg": "/car-musc-react-app/static/media/img1-slider.04ae64e0d6622ab12680.jpg",
+    "static/media/img1.jpg": "/car-musc-react-app/static/media/img1.05ea5b3e1b13595ce36b.jpg",
+    "static/media/img4.jpg": "/car-musc-react-app/static/media/img4.e220cf28e32e61fc599c.jpg",
+    "static/media/img2.jpg": "/car-musc-react-app/static/media/img2.fb2a1c880cc8fa0fd4f3.jpg",
     "static/media/ReformaGroteskDemiC.svg": "/car-musc-react-app/static/media/ReformaGroteskDemiC.70d361af2441e6753a15.svg",
     "static/media/ReformaGroteskMediumC.svg": "/car-musc-react-app/static/media/ReformaGroteskMediumC.42c9ba361f25e69f59ed.svg",
     "static/media/ReformaGroteskBoldC.svg": "/car-musc-react-app/static/media/ReformaGroteskBoldC.0b99a85a4c68a1a87e1d.svg",
+    "static/media/img5.jpg": "/car-musc-react-app/static/media/img5.83bab226c9ec66afb74c.jpg",
+    "static/media/img6.jpg": "/car-musc-react-app/static/media/img6.8816047b47a474ae7ada.jpg",
+    "static/media/img3.jpg": "/car-musc-react-app/static/media/img3.111037dc731b8c10095b.jpg",
     "static/media/ReformaGroteskBoldC.eot": "/car-musc-react-app/static/media/ReformaGroteskBoldC.db509a85a9fb902bc7c2.eot",
     "static/media/ReformaGroteskMediumC.eot": "/car-musc-react-app/static/media/ReformaGroteskMediumC.28e350c29be981eb795c.eot",
     "static/media/ReformaGroteskBoldC.ttf": "/car-musc-react-app/static/media/ReformaGroteskBoldC.af6ac59917645ba0118b.ttf",
@@ -19,13 +30,24 @@
     "static/media/ReformaGroteskDemiC.woff2": "/car-musc-react-app/static/media/ReformaGroteskDemiC.1bfe057365437ee80b6a.woff2",
     "static/media/ReformaGroteskMediumC.woff2": "/car-musc-react-app/static/media/ReformaGroteskMediumC.98c7087e01c9b81f45e5.woff2",
     "static/media/ReformaGroteskBoldC.woff2": "/car-musc-react-app/static/media/ReformaGroteskBoldC.16535a1742a7096febdd.woff2",
+    "static/media/iconList.svg": "/car-musc-react-app/static/media/iconList.6fbdfe08c653de45f64904b1fdc98a49.svg",
+    "static/media/iconPasting.svg": "/car-musc-react-app/static/media/iconPasting.60f43506df06314c4f37136b9817607f.svg",
+    "static/media/iconWash.svg": "/car-musc-react-app/static/media/iconWash.6cbfe38debcb6f83e7aca05564f5376a.svg",
+    "static/media/icon-achiev.svg": "/car-musc-react-app/static/media/icon-achiev.80d1737d4f1a286a0ee20e7e7f11a30e.svg",
+    "static/media/iconBailer.svg": "/car-musc-react-app/static/media/iconBailer.29f7211283468aa1c6b169be97f6af97.svg",
+    "static/media/vkontakte.svg": "/car-musc-react-app/static/media/vkontakte.231d8482ad3c77c36657d78c3e7fca67.svg",
+    "static/media/youtube.svg": "/car-musc-react-app/static/media/youtube.7d08ef4c6d73e856618fd15927e39bad.svg",
+    "static/media/location.svg": "/car-musc-react-app/static/media/location.6af55f03e4694d09f4b4b1db64096530.svg",
+    "static/media/phone.svg": "/car-musc-react-app/static/media/phone.844104a5dc3ce61295aeba1db896d520.svg",
+    "static/media/mail.svg": "/car-musc-react-app/static/media/mail.1a989156dec8e3bf404379f590d97a47.svg",
     "index.html": "/car-musc-react-app/index.html",
+    "static/media/telegram.svg": "/car-musc-react-app/static/media/telegram.bb87b031778e8fdb0f55c51546ee4b74.svg",
     "main.27a480ff.css.map": "/car-musc-react-app/static/css/main.27a480ff.css.map",
-    "main.8c8e1f9b.js.map": "/car-musc-react-app/static/js/main.8c8e1f9b.js.map",
+    "main.258153fb.js.map": "/car-musc-react-app/static/js/main.258153fb.js.map",
     "787.a4b99d08.chunk.js.map": "/car-musc-react-app/static/js/787.a4b99d08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27a480ff.css",
-    "static/js/main.8c8e1f9b.js"
+    "static/js/main.258153fb.js"
   ]
 }
