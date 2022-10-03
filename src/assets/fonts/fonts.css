@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'ReformaGroteskBoldC';
+  src: url('ReformaGroteskBoldC.eot');
+  src: url('ReformaGroteskBoldC.eot?#iefix') format('embedded-opentype'),
+    url('ReformaGroteskBoldC.woff2') format('woff2'),
+    url('ReformaGroteskBoldC.woff') format('woff'),
+    url('ReformaGroteskBoldC.ttf') format('truetype'),
+    url('ReformaGroteskBoldC.svg#ReformaGroteskBoldC') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ReformaGroteskDemiC';
+  src: url('ReformaGroteskDemiC.eot');
+  src: url('ReformaGroteskDemiC.eot?#iefix') format('embedded-opentype'),
+    url('ReformaGroteskDemiC.woff2') format('woff2'),
+    url('ReformaGroteskDemiC.woff') format('woff'),
+    url('ReformaGroteskDemiC.ttf') format('truetype'),
+    url('ReformaGroteskDemiC.svg#ReformaGroteskDemiC') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ReformaGroteskMediumC';
+  src: url('ReformaGroteskMediumC.eot');
+  src: url('ReformaGroteskMediumC.eot?#iefix') format('embedded-opentype'),
+    url('ReformaGroteskMediumC.woff2') format('woff2'),
+    url('ReformaGroteskMediumC.woff') format('woff'),
+    url('ReformaGroteskMediumC.ttf') format('truetype'),
+    url('ReformaGroteskMediumC.svg#ReformaGroteskMediumC') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
