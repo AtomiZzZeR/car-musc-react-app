@@ -9,10 +9,11 @@ const Wrapper = styled.div`
 
 const Title = styled.h2`
   max-width: 636px;
+  margin: 0px 0px 47px 0px;
   font-size: 3.25rem;
   line-height: 1.269;
   text-transform: uppercase;
-  margin: 0px 0px 47px 0px;
+  text-align: center;
 `;
 
 const StyledTitleSection = {
