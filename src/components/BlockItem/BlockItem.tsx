@@ -6,9 +6,10 @@ export interface IBlock {
   icon: string;
   title: string;
   content: string;
+  isButton?: boolean;
 }
 
-const BlockItem: FC<IBlock> = ({ icon, title, content }) => {
+const BlockItem: FC<IBlock> = ({ icon, title, content, isButton }) => {
   return (
     <Styled.Wrapper>
       <Styled.BoxIcon>
@@ -19,7 +20,7 @@ const BlockItem: FC<IBlock> = ({ icon, title, content }) => {
 
       <Styled.Content>{content}</Styled.Content>
 
-      <Styled.Link href={'#'}>Подробнее</Styled.Link>
+      {isButton ? <Styled.Link href={'#'}>Подробнее</Styled.Link> : null}
     </Styled.Wrapper>
   );
 };
